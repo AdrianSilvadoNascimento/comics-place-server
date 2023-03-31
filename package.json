@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "engines": {
-    "node": "18",
-    "npm": "9"
+    "node": "18.x",
+    "npm": "9.x"
   },
   "scripts": {
     "dev": "npx nodemon",
